@@ -1,5 +1,5 @@
-[![MasterHead]()]
-<h1 align="center">Hi 👋, I'm Tyrone Enriquez Tutor</h1>
+![Header](./![github-header-image 1](https://github.com/EnorytZeuqirneRotut/Tyrant/assets/142654110/b4fdc806-65f5-42c0-9206-baa59f71372b).png)
+<h1 align="center"></h1>
 <h3 align="center">a simple soul with a love for computers, found his sanctuary in lines of code.</h3>
 <img align="right" alt="Coding" width="500" height="300"src="https://raw.githubusercontent.com/EdsonLucasbd/EdsonLucasbd/main/images/pixel-jeff-matrix-s.gif">
 
